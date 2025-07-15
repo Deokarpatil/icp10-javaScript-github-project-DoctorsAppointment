@@ -26,3 +26,13 @@ MediCare Hub is designed to make healthcare more accessible and efficient. Wheth
 
 ## 📁 Project Structure
 
+📦 icp10-javascript-github-project-DoctorsAppointment
+│
+├── css/ # Stylesheets (Layout, Buttons, Responsive Design)
+├── icons/ # Custom Icons
+├── images/ # Static Images & Illustrations
+├── js/ # JavaScript files for interactivity
+├── pages/ # HTML pages (Home, Services, About, Login, etc.)
+├── index.html # Main landing page
+└── README.md # Project documentation
+
